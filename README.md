@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Nouhaila INNAN
 - 👀 I’m interested in Quantum Machine Learning
+![Profile views](https://gpvc.arturio.dev/divshacker)
  <!-- - 🌱 I’m currently learning ... -->
 <!-- - 💞️ I’m looking to collaborate on ... -->
 <!--- - 📫 How to reach me ... --->
@@ -15,4 +16,5 @@ You can click the Preview link to take a look at your changes.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Innanov)](https://github.com/Innanov/github-readme-stats)
 
-[![Twitter](https://img.shields.io/twitter/follow/InnanNouhaila?style=social)](https://twitter.com/InnanNouhaila) [![Linkedin](https://img.shields.io/badge/-nouhailainnan-purple?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nouhailainnan/)](https://www.linkedin.com/in/nouhailainnan/) [![GitHub](https://github.com/Innanov) [![Instagram](https://img.shields.io/badge/-nouhailainnan-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/nouhailainnan/)](https://www.instagram.com/nouhailainnan/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nouhailainnan/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/nouhailainnan)
