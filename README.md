@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nouhaila INNAN
 - 👀 I’m interested in Quantum Machine Learning
-![Profile views](https://gpvc.arturio.dev/divshacker)
+![Profile views](https://gpvc.arturio.dev/nouhailainnan)
  <!-- - 🌱 I’m currently learning ... -->
 <!-- - 💞️ I’m looking to collaborate on ... -->
 <!--- - 📫 How to reach me ... --->
