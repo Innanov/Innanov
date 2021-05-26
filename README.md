@@ -8,5 +8,6 @@
 Innanov/Innanov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-[![Innanov's GitHub stats](https://github-readme-stats.vercel.app/api?username=innanov)](https://github.com/anuraghazra/github-readme-stats)
+[![Innanov's GitHub stats](https://github-readme-stats.vercel.app/api?username=Innanov)](https://github.com/Innanov/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Innanov)](https://github.com/Innanov/github-readme-stats)
