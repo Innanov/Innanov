@@ -22,10 +22,12 @@ You can click the Preview link to take a look at your changes.
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Innanov&theme=dark"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Innanov&theme=radical"/>
   </a>
   <br/>
 </p>
+
+
 
 
 
