@@ -16,8 +16,16 @@ You can click the Preview link to take a look at your changes.
 <!-- ![Innanov's GitHub stats](https://github-readme-stats.vercel.app/api?username=Innanov&show_icons=true) --->
 
 <!--- [![](https://github-readme-stats.vercel.app/api?username=Innanov&hide=issues)](https://github.com/Innanov/github-readme-stats) --->
-![Innanov's GitHub stats](https://github-readme-stats.vercel.app/api?username=Innanov&show_icons=true&theme=radical)
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=Innanov&layout=compact&theme=radical)](https://github.com/Innanov/github-readme-stats)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Innanov&show_icons=true&theme=radical">
+</p>
+<p align="center">
+  <a href="https://github.com/Innanov/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Innanov&layout=compact&theme=radical"/>
+  </a>
+  <br/>
+</p>
+
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Innanov&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats) -->
 
 <p align="center">
