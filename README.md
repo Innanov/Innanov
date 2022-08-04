@@ -51,5 +51,5 @@ You can click the Preview link to take a look at your changes.
 [![Linkedin](![image](https://user-images.githubusercontent.com/64653897/125191404-2ca62a80-e23a-11eb-8918-531ece666f89.png))](https://www.linkedin.com/in/nouhailainnan/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/innannouhaila) -->
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nouhailainnan/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/innannouhaila)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/NouhailaInnan)
 
