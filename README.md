@@ -1,11 +1,11 @@
 <h1 align="center"> Hi, I’m Nouhaila INNAN 👋
  </h1>
 
-- 👀 I’m interested in Quantum Machine Learning
-
+- 👀 I’m working on Quantum Machine Learning. 
+- :boom: I’m looking to collaborate on Quantum Machine Learning and Quantum Algorithms!
 <!-- ![Profile views](https://gpvc.arturio.dev/nouhailainnan)
  <!-- - 🌱 I’m currently learning ... -->
-<!-- - 💞️ I’m looking to collaborate on ... -->
+<!-- -  ... -->
 <!--- - 📫 How to reach me ... --->
 
 <!---
