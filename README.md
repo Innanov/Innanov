@@ -62,7 +62,9 @@ You can click the Preview link to take a look at your changes.
 <a href="https://www.credly.com/badges/5f706bb0-5d79-499e-a582-7d6453b13bd0" rel="nofollow">
     <img src="https://user-images.githubusercontent.com/64653897/201473189-b0279ad2-41ac-4eb0-b56e-eee0c8923eb7.png" width="140" height="140" style="max-width: 100%;">
 </a>
-
+<a href="https://www.credly.com/earner/earned/badge/4256cd3f-ce0c-42a1-b0c2-6da1c3f865a8" rel="nofollow">
+    <img src="https://user-images.githubusercontent.com/64653897/204831295-8ed33664-8b38-4f07-be85-80f4690f7a87.png" width="140" height="140" style="max-width: 100%;">
+</a>
 <a href="https://www.credly.com/badges/921d952f-70d3-481a-afb3-8a2f88d168e7" rel="nofollow">
     <img src="https://user-images.githubusercontent.com/64653897/201473199-a377cdaa-1f1b-4bd2-9a78-935c012ef5dd.png" width="140" height="140" style="max-width: 100%;">
 </a>
