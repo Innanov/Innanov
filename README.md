@@ -68,7 +68,17 @@ You can click the Preview link to take a look at your changes.
 <a href="https://www.credly.com/badges/921d952f-70d3-481a-afb3-8a2f88d168e7" rel="nofollow">
     <img src="https://user-images.githubusercontent.com/64653897/201473199-a377cdaa-1f1b-4bd2-9a78-935c012ef5dd.png" width="140" height="140" style="max-width: 100%;">
 </a>
+<a href="https://verified.sertifier.com/en/verify/01098747385452?ref=email" rel="nofollow">
+    <img src="https://user-images.githubusercontent.com/64653897/205436403-4eddeda0-d1c5-40f7-b818-e104cd46ac06.png" width="140" height="140" style="max-width: 100%;">
+</a>
 
+<a href="https://verified.sertifier.com/en/verify/22202630988473?ref=email" rel="nofollow">
+    <img src="https://user-images.githubusercontent.com/64653897/205436416-a21d8664-3da5-4ef1-bb3c-1c047098a7e3.png" width="140" height="140" style="max-width: 100%;">
+</a>
+
+<a href="https://verified.sertifier.com/en/verify/60337086599926?ref=email" rel="nofollow">
+    <img src="https://user-images.githubusercontent.com/64653897/205436442-d82a1f3e-0cc1-4195-8ce4-686184fcad72.png" width="140" height="140" style="max-width: 100%;">
+</a>
 
 
 <h3 dir="auto"><a id="user-content-Data-Science" class="anchor" aria-hidden="true" href="#Data-Science"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Data Science & AI</h3>
@@ -92,6 +102,7 @@ You can click the Preview link to take a look at your changes.
 <a href="https://www.credly.com/badges/cc6849a7-d53b-4866-8289-c4cad92c9126" rel="nofollow">
     <img src="https://user-images.githubusercontent.com/64653897/201473348-0cae65e3-0021-4130-aa98-83a2fc007d95.png" width="140" height="140" style="max-width: 100%;">
 </a>
+
 
 
 <!-- ![Innanov's GitHub stats](https://github-readme-stats.vercel.app/api?username=Innanov&show_icons=true&theme=radical) -->
