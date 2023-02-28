@@ -17,11 +17,11 @@ You can click the Preview link to take a look at your changes.
 
 <!--- [![](https://github-readme-stats.vercel.app/api?username=Innanov&hide=issues)](https://github.com/Innanov/github-readme-stats) --->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Innanov&show_icons=true&theme=radical">
+   <img src="https://github-readme-stats.vercel.app/api?username=Innanov&theme=radical&show_icons=true"/>
 </p>
 <p align="center">
   <a href="https://github.com/Innanov/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Innanov&layout=compact&theme=radical"/>
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Innanov&theme=radical&layout=compact"/>
   </a>
   <br/>
 </p>
