@@ -113,7 +113,8 @@ You can click the Preview link to take a look at your changes.
 <a href="https://open.hpi.de/courses/bayesian-statistics2023/" rel="nofollow">
     <img src="https://user-images.githubusercontent.com/64653897/227706570-adc9a3d9-92fd-4203-940c-576bc21f42b7.png" width="140" height="140" style="max-width: 100%;">
 </a>
-
+    <img src="https://github.com/Innanov/Innanov/assets/64653897/d14914b5-6ab1-4a36-920f-723ea9e5af8b" width="160" height="140" style="max-width: 100%;">
+</a>
 
 <!-- ![Innanov's GitHub stats](https://github-readme-stats.vercel.app/api?username=Innanov&show_icons=true&theme=radical) -->
 
