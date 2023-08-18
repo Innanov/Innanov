@@ -3,7 +3,7 @@
 
 - 👀 I’m working on Quantum Machine Learning. 
 - :boom: I’m looking to collaborate on Quantum Machine Learning and Quantum Algorithms!
-<!-- ![Profile views](https://gpvc.arturio.dev/nouhailainnan)
+ ![Profile views](https://gpvc.arturio.dev/nouhailainnan)
  <!-- - 🌱 I’m currently learning ... -->
 <!-- -  ... -->
 <!--- - 📫 How to reach me ... --->
