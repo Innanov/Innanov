@@ -79,6 +79,9 @@ You can click the Preview link to take a look at your changes.
 </a>
 <a href="https://verified.sertifier.com/en/verify/60337086599926?ref=email" rel="nofollow">
     <img src="https://user-images.githubusercontent.com/64653897/205436442-d82a1f3e-0cc1-4195-8ce4-686184fcad72.png" width="140" height="140" style="max-width: 100%;">
+ </a>
+ <a href="https://www.virtualbadge.io/certificate-validator?credential=fd436b9e-cf84-47b8-b186-f4b5cdad4138" rel="nofollow">
+    <img src="https://github.com/Innanov/Innanov/assets/64653897/ba828a13-534c-44d2-bdad-87bd4ebef00b" width="140" height="140" style="max-width: 100%;">
 <div>
     <a href="https://open.hpi.de/courses/qc-qiskit2022" rel="nofollow">
         <img src="https://user-images.githubusercontent.com/64653897/227706338-00123024-92a5-4682-82c9-f07e3a2edc03.png" width="140" height="140" style="max-width: 100%;">
