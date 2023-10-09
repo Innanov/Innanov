@@ -80,6 +80,9 @@ You can click the Preview link to take a look at your changes.
 <a href="https://verified.sertifier.com/en/verify/60337086599926?ref=email" rel="nofollow">
     <img src="https://user-images.githubusercontent.com/64653897/205436442-d82a1f3e-0cc1-4195-8ce4-686184fcad72.png" width="140" height="140" style="max-width: 100%;">
  </a>
+ <a href="https://www.credly.com/earner/earned/badge/91ef9335-88bd-4191-8e6c-c4e1bb249f17" rel="nofollow">
+    <img src="https://github.com/Innanov/Innanov/assets/64653897/ed82de0b-9a19-432f-b49e-17dfe6e7a6b4" width="140" height="140" style="max-width: 100%;">
+</a>
  <a href="https://www.virtualbadge.io/certificate-validator?credential=fd436b9e-cf84-47b8-b186-f4b5cdad4138" rel="nofollow">
     <img src="https://github.com/Innanov/Innanov/assets/64653897/ba828a13-534c-44d2-bdad-87bd4ebef00b" width="140" height="140" style="max-width: 100%;">
 <div>
