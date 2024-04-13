@@ -1,4 +1,4 @@
-<h1 align="center"> Hi, I’m Nouhaila INNAN 👋
+<h1 align="center"> Hi, I’m Nouhaila Innan 👋
  </h1>
 
 - 👀 I’m working on Quantum Machine Learning. 
