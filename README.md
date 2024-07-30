@@ -1,4 +1,4 @@
-<h1 align="center"> Hi, I’m Nouhaila Innan 👋
+<h1 align="center"> Hi, I’m Dr. Nouhaila Innan 👋
  </h1>
 
 - 👀 I’m working on Quantum Machine Learning. 
@@ -141,7 +141,7 @@ You can click the Preview link to take a look at your changes.
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nouhailainnan/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/NouhailaInnan)
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github.com/Innanov/Innanov/blob/main/github-user-contribution.svg" alt="snake"></center>
-</p>
+</p> -->
 
